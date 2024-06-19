@@ -1,0 +1,12 @@
+correo electronico: nombre
+correo electronico: lucas
+
+
+correoelectronico
+
+correo elec
+
+corre
+: lucas salazar
+correo electronico: lucassalazar[6;3~@gmail.com
+
